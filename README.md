@@ -1,6 +1,9 @@
 # FacebookListHack
 a script that will allow users to extract a list of likes from a page in csv format
 
+
+******Make sure that you do this in Google Chrome, It's the only browser that I tested it on!!!!!*******
+
 How this works
 
 1.	First you need to go to your page, this is where you can manage your page insights and notification…
@@ -11,7 +14,7 @@ How this works
 
 4.	Once you found the post you want, click the post link and a  “post detail” modal(pop up window) should pop up. Right click the modal and select inspect element. This should make your console appear.
 
-5.	You should see in big bold letters STOP! … or something like that… that means you’re in the right place. At this moment you will paste my script into your console and press “Enter.” It should return “undefined” in the console.
+5.	You should see in big bold red letters "STOP!" … or something like that… that means you’re in the right place. At this moment you will paste my script into your console and press “Enter.” It should return “undefined” in the console.
 
 6.	You can now close your console, go back to the modal and under the post you will see the number of likes, for example: 6 Likes.
 
