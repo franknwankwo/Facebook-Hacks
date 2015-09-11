@@ -1,5 +1,4 @@
 (function(console){
-	var profileBlock = document.getElementsByClassName('fcb');
 	console.likeList = function(){
 	var profileBlock = document.getElementsByClassName('fcb'),
 		nameArray = [];
